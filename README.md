@@ -33,5 +33,5 @@ To run the game, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
+   git clone https://github.com/aditya-sharma-11/rock-paper-scissors.git
 
